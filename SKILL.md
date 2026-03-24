@@ -1,5 +1,5 @@
 ---
-name: volc-financial-services-skills
+name: financial-services-skill-sets
 description: 金融服务领域专业 AI 技能集合，覆盖股票研究、投资银行、私募股权和财富管理。支持 A股、港股及中概股市场。当用户请求金融服务相关分析、报告或建模任务时使用。
 ---
 
